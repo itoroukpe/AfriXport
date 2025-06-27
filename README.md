@@ -1,6 +1,6 @@
 # AfriXport
 
-Here’s a concise and compelling **description for AfriXport**, including its objective and unique differentiators:
+
 
 ---
 
