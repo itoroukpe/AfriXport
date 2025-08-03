@@ -46,12 +46,12 @@ To encourage buy-in and fair participation:
 | Director Role         | Equity % | Option: Buy-in Value |
 | --------------------- | -------- | -------------------- |
 | Chairperson           | 0        | \$0                  |
-| CTO                   | 4%       | \$1,000              |
-| CFO                   | 4%       | \$1,000              |
-| Legal Advisor         | 2.5%     | \$1,000              |
-| Marketing Advisor     | 2.5%     | \$1,000              |
-| Logistics/Ops Advisor | 3%       | \$1,000              |
-| Strategy & Partnerships Advisor |  \$1,000              |
+| CTO                   | 3.33%       | \$1,000              |
+| CFO                   | 3.33%       | \$1,000              |
+| Legal Advisor         | 3.33%     | \$1,000              |
+| Marketing Advisor     | 3.33%     | \$1,000              |
+| Logistics/Ops Advisor | 3.33%       | \$1,000              |
+| Strategy & Partnerships Advisor | 3.33% | \$1,000          |
 |**Total**             | **20%**  | **\$6,000**           |
 
 This buy-in structure aligns incentives and brings accountability.
