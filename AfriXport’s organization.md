@@ -34,7 +34,7 @@ To strategically structure AfriXport’s organization, ownership, and fundraisin
 | Legal Advisor           | Contracts, IP protection, regulatory compliance                   |
 | Marketing Advisor       | GTM strategy, digital marketing, brand positioning                |
 | Logistics & Ops Advisor | Supply chain and fulfillment strategy for cross-border e-commerce |
-
+| Strategy & Partnerships Advisor | Strategy & Partnerships Advisor                           |
 You (Founder/CEO) will lead product vision, execution, and strategic partnerships.
 
 ---
@@ -45,13 +45,14 @@ To encourage buy-in and fair participation:
 
 | Director Role         | Equity % | Option: Buy-in Value |
 | --------------------- | -------- | -------------------- |
-| Chairperson           | 4%       | \$1,200              |
-| CTO                   | 4%       | \$1,200              |
-| CFO                   | 4%       | \$1,200              |
-| Legal Advisor         | 2.5%     | \$750                |
-| Marketing Advisor     | 2.5%     | \$750                |
-| Logistics/Ops Advisor | 3%       | \$900                |
-| **Total**             | **20%**  | **\$6,000**          |
+| Chairperson           | 0        | \$0                  |
+| CTO                   | 4%       | \$1,000              |
+| CFO                   | 4%       | \$1,000              |
+| Legal Advisor         | 2.5%     | \$1,000              |
+| Marketing Advisor     | 2.5%     | \$1,000              |
+| Logistics/Ops Advisor | 3%       | \$1,000              |
+| Strategy & Partnerships Advisor |  \$1,000              |
+|**Total**             | **20%**  | **\$6,000**           |
 
 This buy-in structure aligns incentives and brings accountability.
 
@@ -91,7 +92,7 @@ This buy-in structure aligns incentives and brings accountability.
 | Draft Board Charter & Governance Guidelines | Legal Advisor | Week 2    |
 | Structure Director Equity Contribution Plan | CFO           | Week 2    |
 | Prepare Investor Pitch Deck                 | Founder       | Week 2    |
-| Raise \$10K from Investors                  | Founder       | Weeks 2–4 |
+| Raise \$20K from Investors                  | Founder       | Weeks 2–4 |
 | Launch MVP with \$6K Infra Budget           | CTO           | Week 4+   |
 
 ---
