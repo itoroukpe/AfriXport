@@ -18,7 +18,7 @@ To strategically structure AfriXport’s organization, ownership, and fundraisin
 | Fundraising Source | Target Amount | Use of Funds                                            |
 | ------------------ | ------------- | ------------------------------------------------------- |
 | Directors Equity   | \$6,000       | Platform infrastructure (e.g., hosting, APIs, licenses) |
-| Investor Equity    | \$10,000      | Marketing, legal, operations, vendor onboarding, etc.   |
+| Investor Equity    | \$20,000      | Marketing, legal, operations, vendor onboarding, etc.   |
 
 **Note**: These contributions can be structured as **equity-based funding** proportional to the share allocations, or as **convertible notes** with equity conversion clauses.
 
