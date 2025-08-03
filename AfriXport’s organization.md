@@ -8,7 +8,7 @@ To strategically structure AfriXport’s organization, ownership, and fundraisin
 | ------------------------------------- | ---------- | -------------------------------------------------------------- |
 | Founder (You)                         | 40%        | Retain majority influence and long-term strategic control      |
 | Board of Directors                    | 20%        | 6 Directors; equity split (e.g., 3.33% each)                   |
-| External Investors                    | 20%        | Targeted for \$10,000 operational funding                      |
+| External Investors                    | 20%        | Targeted for \$20,000 operational funding                      |
 | Company Reserve (ESOP & Reinvestment) | 20%        | Reserved for reinvestment, staff incentives, or future scaling |
 
 ---
