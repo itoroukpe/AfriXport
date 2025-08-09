@@ -95,6 +95,4 @@ This buy-in structure aligns incentives and brings accountability.
 | Raise \$20K from Investors                  | Founder       | Weeks 2–4 |
 | Launch MVP with \$6K Infra Budget           | CTO           | Week 4+   |
 
----
 
-Would you like me to help you **draft the legal/organizational templates** or **create a cap table and share certificates**?
