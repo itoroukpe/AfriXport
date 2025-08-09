@@ -1,4 +1,4 @@
-To strategically structure AfriXport’s organization, ownership, and fundraising plan, we’ll address the following areas:
+# AfriXport’s organization, ownership, and fundraising plan
 
 ---
 
