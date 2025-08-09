@@ -1,6 +1,3 @@
-Here’s a clear and professional rewrite of your text in plain, structured language:
-
----
 
 ## **Champion 5% Commission Rate – Explained**
 
@@ -76,6 +73,4 @@ If a champion onboards 10 vendors who generate \$50,000 in total monthly sales:
 * Product category commission rates
 * Quantity and quality of completed support activities
 
----
 
-This structure ensures that champions are rewarded for both vendor acquisition and long-term vendor success, encouraging sustained engagement and platform growth.
