@@ -1,15 +1,3 @@
-I'll walk you through testing the shipping labels for both FedEx and Maersk from both vendor and buyer perspectives. Let me first examine the current implementation to understand the testing flow.
-
-Now let me check what test interfaces are available for testing the shipping functionality:
-
-Let me also check what customer/buyer interfaces are available:
-
-Let me check the specific buyer/customer tracking interfaces:
-
-Now let me look at the buyer portal to understand how customers place orders:
-
-Perfect! Now I have a comprehensive understanding of the system. Let me walk you through how to test shipping labels for FedEx and Maersk as both vendor and buyer.
-
 ## Testing Shipping Labels: Complete Walkthrough
 
 Based on the current implementation, here's how to test the shipping functionality for both FedEx and Maersk:
