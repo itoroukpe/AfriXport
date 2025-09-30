@@ -1,9 +1,3 @@
-I'll help you draft a comprehensive email for vendors with step-by-step instructions. Let me first review the vendor settings interface to ensure the instructions are accurate and complete.
-
-Perfect! Now I have all the information I need. Let me draft a comprehensive email for your vendors with clear step-by-step instructions.
-
----
-
 ## Draft Email to Vendors: Update Your Profile Information
 
 **Subject:** Complete Your Vendor Profile – Step-by-Step Guide
