@@ -245,4 +245,196 @@ AfriXport Nigeria Ltd. becomes the **legal bridge for foreign vendors** (like Dr
 ---
 
 Would you like me to **draft an “AfriXport Nigeria Ltd. Formation Blueprint”** (like a formal business plan outline with estimated costs, org chart, and compliance process flow) that you can use both internally and when talking to potential investors/partners?
+---
+Got it 👍🏽 — here’s a **step-by-step AfriXport NAFDAC Compliance Workflow** you can plug directly into your **Vendor Onboarding Playbook**. I’ll write it in structured process-flow style, with clear checkpoints, responsibilities, and deliverables.
+
+---
+
+# **AfriXport NAFDAC Compliance Workflow**
+
+---
+
+## **Stage 1: Vendor Onboarding**
+
+**Objective:** Collect vendor/product data for NAFDAC compliance.
+**Owner:** AfriXport Vendor Relations Team
+
+1. **Vendor Registration**
+
+   * Vendor applies to join AfriXport via platform intake form.
+   * Selects “Nutraceuticals / Health Products” category.
+   * Accepts AfriXport Terms & Conditions (compliance required).
+
+2. **Initial Screening**
+
+   * AfriXport team checks vendor legitimacy (business license, ISO/GMP certificate, website, references).
+   * Products are reviewed against AfriXport restricted items list.
+
+3. **Document Request**
+   Vendor uploads the following to the AfriXport Compliance Portal:
+
+   * Certificate of Incorporation (vendor’s home country).
+   * GMP/ISO certification of manufacturer.
+   * Certificate of Free Sale (from home country FDA/health authority).
+   * Product composition/formula sheet.
+   * Labels & artwork (packaging info, dosage, claims).
+   * Certificate of Analysis (lab test results from manufacturer).
+   * Power of Attorney authorizing AfriXport Nigeria Ltd. as importer of record.
+
+4. **AfriXport Verification**
+
+   * Compliance team reviews for completeness.
+   * If gaps exist, vendor is notified to resubmit.
+
+**Deliverable:** Vendor dossier (all docs compiled).
+
+---
+
+## **Stage 2: Pre-Submission Compliance Review**
+
+**Objective:** Ensure documents meet NAFDAC requirements.
+**Owner:** AfriXport Compliance Desk
+
+1. **Legal & Technical Review**
+
+   * Check product claims (must not be “drug-like” if classified as supplement).
+   * Verify labeling format (ingredient list, batch numbers, expiry date).
+   * Confirm foreign certificates are notarized/apostilled.
+
+2. **Sample Collection**
+
+   * Vendor ships product samples to AfriXport Nigeria office.
+   * Stored for NAFDAC lab submission.
+
+3. **Application Preparation**
+
+   * AfriXport Compliance Officer prepares NAFDAC application forms.
+   * Vendor signs Power of Attorney & Agreement.
+
+**Deliverable:** Ready-to-file compliance package.
+
+---
+
+## **Stage 3: NAFDAC Filing**
+
+**Objective:** Officially register products with NAFDAC.
+**Owner:** AfriXport Nigeria Ltd. (Importer of Record)
+
+1. **Submission to NAFDAC**
+
+   * File application online via NAFDAC portal + physical submission.
+   * Pay applicable fees (registration, inspection, lab analysis).
+
+2. **Laboratory Testing**
+
+   * Submit product samples to NAFDAC lab.
+   * Tests for safety, quality, and compliance.
+
+3. **Factory Inspection (if required)**
+
+   * NAFDAC may request inspection of foreign manufacturing site.
+   * AfriXport coordinates vendor readiness.
+
+4. **Queries / Clarifications**
+
+   * If NAFDAC raises questions, AfriXport compliance desk coordinates responses with vendor.
+
+**Deliverable:** NAFDAC Acknowledgment Receipt + Application Tracking Number.
+
+---
+
+## **Stage 4: Approval & Certification**
+
+**Objective:** Secure legal approval for market entry.
+**Owner:** AfriXport Compliance Desk
+
+1. **Approval Notification**
+
+   * Once testing & review pass, NAFDAC issues Registration Certificate (valid 5 years).
+
+2. **Database Entry**
+
+   * Product details entered into AfriXport’s Compliance Registry.
+   * Certificate stored in vendor profile.
+
+3. **Renewals Tracking**
+
+   * Compliance system auto-sets reminders (renewals, 5-year cycle).
+
+**Deliverable:** NAFDAC Registration Certificate (per product SKU).
+
+---
+
+## **Stage 5: AfriXport Platform Listing**
+
+**Objective:** Enable vendor to trade products on AfriXport with compliance tag.
+**Owner:** AfriXport Vendor Onboarding Team
+
+1. **Product Activation**
+
+   * Products listed in AfriXport catalog.
+   * “NAFDAC-Registered” badge applied.
+
+2. **Buyer Confidence Building**
+
+   * Product details include:
+
+     * NAFDAC registration number.
+     * Compliance certificate download option.
+   * Highlighted in AfriXport “Certified Imports” category.
+
+3. **Logistics Enablement**
+
+   * AfriXport connects vendor to shipping partners.
+   * Customs clearance supported with NAFDAC certificate.
+
+**Deliverable:** Live AfriXport product listing with compliance seal.
+
+---
+
+## **Stage 6: Ongoing Compliance & Monitoring**
+
+**Objective:** Ensure continued adherence to Nigerian regulations.
+**Owner:** AfriXport Compliance Desk
+
+1. **Post-Market Surveillance**
+
+   * Monitor vendor shipments for product consistency.
+   * Collect buyer feedback and report adverse reactions to NAFDAC if needed.
+
+2. **Renewal Management**
+
+   * Track expiration of certificates.
+   * Coordinate renewals before deadline.
+
+3. **Vendor Updates**
+
+   * Vendors must inform AfriXport of formulation/label changes.
+   * AfriXport ensures updated NAFDAC re-approval.
+
+**Deliverable:** Continuous compliance and platform trust.
+
+---
+
+## **Workflow Summary (Checklist Style for Playbook)**
+
+1. Vendor registers → uploads docs.
+2. AfriXport verifies docs & requests samples.
+3. Compliance desk prepares & files with NAFDAC.
+4. NAFDAC testing + inspection (if needed).
+5. Certificate issued (5-year validity).
+6. Product listed on AfriXport with “NAFDAC Approved” tag.
+7. Renewals + ongoing compliance monitoring.
+
+---
+
+✅ This workflow allows you to:
+
+* Standardize vendor compliance.
+* Build buyer trust on AfriXport.
+* Monetize compliance as a service (fees for each step).
+
+---
+
+Would you like me to also create a **visual process flowchart (diagram)** of this workflow (vendor → compliance → NAFDAC → platform listing), so you can use it in presentations and onboarding guides?
 
