@@ -33,7 +33,7 @@
 | CFO / Chief Finance Officer | Budgeting, fundraising compliance, grant, and accounting   |
 | CMO/ Chief Marketing Officer | Digital campaigns, advertising, commercials, branding  |
 | COO/ Chief Operations Officer   | Oversees logistics, compliance, vendor support |
-| CCO/ Chief Commercial Officer  | Manages sales, buyer acquisition, trade partnerships|
+| CCO/ Chief Commercial Officer  | Category Manager – Agriculture, Textiles, Natural Resources, Handicrafts, trade partnership  |
 | Legal Advisor           | Contracts, IP protection, regulatory compliance                   |
 ---
 
