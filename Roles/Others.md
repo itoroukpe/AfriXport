@@ -23,10 +23,10 @@ Other – Operations
 •	Chief Technology Officer (CTO) → Platform, integrations, security, scaling.
 •	Chief Finance Officer (CFO) → Financial ops, compliance, grants, payments.
 •	
-•	Regional Managers (West, East, North, Southern Africa) → Local product/vendor oversight.
-•	Category Managers (Agriculture, Textiles, Natural Resources, Handicrafts).
-•	Head of Buyer Relations → Research buyers, build CRM pipelines, manage accounts.
-•	Head of Digital Marketing → SEO, Ads, Social Media, Content.
-•	Creative & Media Lead → Commercials, video ads, graphics.
-•	Champion Program Lead → Vendor onboarding, training, commission management.
+1•	Regional Managers (West, East, North, Southern Africa) → Local product/vendor oversight.
+2•	Category Managers (Agriculture, Textiles, Natural Resources, Handicrafts).
+3•	Head of Buyer Relations → Research buyers, build CRM pipelines, manage accounts.
+4•	Head of Digital Marketing → SEO, Ads, Social Media, Content.
+5•	Creative & Media Lead → Commercials, video ads, graphics.
+6•	Champion Program Lead → Vendor onboarding, training, commission management.
 
