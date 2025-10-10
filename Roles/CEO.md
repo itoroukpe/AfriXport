@@ -111,6 +111,4 @@ The Chief Executive Officer (CEO) serves as the strategic and operational leader
 * Initial appointment term: **4 years**, renewable based on performance and Board approval.
 * Annual evaluation by the Board based on strategic goal attainment, financial performance, and organizational impact.
 
----
 
-Would you like me to create a **one-page executive summary version** of this (formatted for board presentations or inclusion in an AfriXport Governance Framework document)? It would highlight only the role summary, 5 priority mandates, and top KPIs in a concise leadership dashboard style.
