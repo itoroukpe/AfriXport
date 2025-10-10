@@ -102,3 +102,12 @@ If you want, I can keep iterating to fill the remaining states using only **offi
 [6]: https://www.premiumtimesng.com/regional/ssouth-east/809159-enugu-governor-reshuffles-cabinet-swears-in-six-new-commissioners.html?utm_source=chatgpt.com "Enugu governor reshuffles cabinet, swears in six new ..."
 [7]: https://mocit.kt.gov.ng/contact/?utm_source=chatgpt.com "Contact - MOCIT"
 [8]: https://www.bauchistate.gov.ng/wp-content/uploads/2022/11/Registration-of-Occupation-and-Business-Premises.pdf?utm_source=chatgpt.com "Registration of Occupation and Business Premises"
+---
+| Region            | States                                                | Verification Lead         |
+| ----------------- | ----------------------------------------------------- | ------------------------- |
+| **South-South**   | Akwa Ibom, Cross River, Rivers, Bayelsa, Edo, Delta   | AfriXport HQ Team         |
+| **South-East**    | Abia, Imo, Anambra, Enugu, Ebonyi                     | Regional Coordinator East |
+| **South-West**    | Lagos, Ogun, Oyo, Osun, Ondo, Ekiti                   | Lagos Liaison Office      |
+| **North-Central** | Kogi, Kwara, Niger, Nasarawa, Benue, Plateau, FCT     | Abuja Liaison Office      |
+| **North-East**    | Adamawa, Bauchi, Borno, Gombe, Taraba, Yobe           | Northern Liaison Office   |
+| **North-West**    | Kaduna, Kano, Katsina, Kebbi, Sokoto, Jigawa, Zamfara | Northwest Office          |
