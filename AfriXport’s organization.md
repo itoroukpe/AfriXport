@@ -28,39 +28,32 @@
 
 | Role                    | Key Responsibilities                                              |
 | ----------------------- | ----------------------------------------------------------------- |
-| Chairperson             | Governance oversight, fundraising strategy, alignment             |
-| CTO / Tech Advisor      | Technical roadmap, architecture oversight                         |
-| CFO / Finance Chair     | Budgeting, fundraising compliance, and accounting                 |
+| CEO /Chief Executive Officer | Governance oversight, alignment, lead product vision, execution, and strategic partnerships |
+| CTO / Chief Technology Officer | Platform, integrations, security, scaling.               |
+| CFO / Chief Finance Officer | Budgeting, fundraising compliance, grant, and accounting   |
+| CMO/ Chief Marketing Officer | Digital campaigns, advertising, commercials, branding  |
+| COO/ Chief Operations Officer   | Oversees logistics, compliance, vendor support |
+| CCO/ Chief Commercial Officer  | Manages sales, buyer acquisition, trade partnerships|
 | Legal Advisor           | Contracts, IP protection, regulatory compliance                   |
-| Marketing Advisor       | GTM strategy, digital marketing, brand positioning                |
-| Logistics & Ops Advisor | Supply chain and fulfillment strategy for cross-border e-commerce |
-| Strategy & Partnerships Advisor | Strategy & Partnerships Advisor                           |
-You (Founder/CEO) will lead product vision, execution, and strategic partnerships.
-
 ---
 
 ## ✅ **4. Equity Allocation Example for Directors (20%)**
 
 To encourage buy-in and fair participation:
 
-| Director Role         | Equity % | Option: Buy-in Value |
-| --------------------- | -------- | -------------------- |
-| Chairperson           | 0        | \$0                  |
-| CTO                   | 3.33%       | \$1,000              |
-| CFO                   | 3.33%       | \$1,000              |
-| Legal Advisor         | 3.33%     | \$1,000              |
-| Marketing Advisor     | 3.33%     | \$1,000              |
-| Logistics/Ops Advisor | 3.33%       | \$1,000              |
-| Strategy & Partnerships Advisor | 3.33% | \$1,000          |
+| Director Role                    | Equity % | Option: Buy-in Value |
+| ---------------------            | -------- | -------------------- |
+| CTO / Chief Technology Officer   | 3.33%    | \$1,000              |
+| CFO / Chief Finance Officer      | 3.33%    | \$1,000              |
+| CMO/ Chief Marketing Officer     | 3.33%    | \$1,000              |
+| COO/ Chief Operations Officer    | 3.33%    | \$1,000              |
+| CCO/ Chief Commercial Officer    | 3.33%    | \$1,000              |
+| Legal Advisor                    | 0%       | \$0          |
 |**Total**             | **20%**  | **\$6,000**           |
 
 This buy-in structure aligns incentives and brings accountability.
 
 ---
-
-## ✅ **5. Legal Structure**
-
-**Recommended Legal Entity:** Delaware C-Corp or LLC with Operating Agreement
 
 ### Key Documents:
 
