@@ -1,7 +1,3 @@
-Excellent — here’s the expanded version with a **Key Performance Indicators (KPIs)** section, formatted for inclusion in AfriXport’s **Governance Charter** or **HR Executive Role Handbook**.
-
----
-
 ## **Chief Executive Officer (CEO) – AfriXport**
 
 **Position Title:** Chief Executive Officer (CEO)
