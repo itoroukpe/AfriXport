@@ -162,7 +162,6 @@ To export palm oil successfully, ensure the following documents are in place:
 
 ---
 
-Would you like me to prepare a **visual export packaging guide (diagram/table)** showing each packaging type with photos and typical specifications (capacity, weight, labeling, export code)? It can serve as a ready-to-use **AfriXport exporter manual page** for palm oil suppliers.
----
+
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/331f275c-1da7-460a-974b-4e7e49ab47b6" />
 
