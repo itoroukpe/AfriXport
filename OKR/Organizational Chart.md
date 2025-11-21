@@ -117,11 +117,12 @@
 
 ### **Marketing Directors (Digital & Field Marketing)**
 
-* **Ubon Basil**
-* **Emmanuel Udo**
-* **Mfon Lawrence**
-* **Iniobong Eka**
-* **Iberedem Ukpe**
+* **Ubon Basil - Nigeria/West Africa**
+* **Emmanuel Udo - Nigeria/East Africa**
+* **Mfon Lawrence Nigeria/South Africa**
+* **Iniobong Eka - Nigeria/North Africa**
+* **Iberedem Ukpe - Nigeria (Middle Belt)**
+* **David Eruknakpo - Category Director**
 
 **Responsibilities:**
 
@@ -135,7 +136,7 @@
 
 ### **Category Director**
 
-**David**
+**David Erukunakpo**
 Responsible for product-specific verticals:
 
 * Agriculture & Commodities
