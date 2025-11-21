@@ -131,6 +131,9 @@
 * Regional product promotion
 * Vendor and buyer activation content
 * Market research & reporting
+* Vendor intake and verification
+* Local supplier engagement
+* Training and onboarding programs
 
 ---
 
@@ -141,7 +144,7 @@ Responsible for product-specific verticals:
 
 * Agriculture & Commodities
 * Textiles & Fashion
-* Natural Resources (Shea, Cocoa, Coffee, Sesame, Ginger, etc.)
+* Natural Resources 
 * Handicrafts & Cultural Products
 * Industrial & Specialty Products
 * Category analytics & product quality mapping
