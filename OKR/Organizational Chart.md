@@ -237,11 +237,4 @@ Operations   Commercial      Technology       Finance       Regional Mktg.   Eur
 
 ---
 
-If you want, I can also prepare:
 
-✅ A **graphical organizational chart** (PNG/PDF)
-✅ A **Leadership Handbook** with roles & responsibilities
-✅ A **Share Allocation Table** connected to roles
-✅ Organizational Structure for your **AfriXport Leadership Portal**
-
-Just tell me!
