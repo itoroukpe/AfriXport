@@ -1,6 +1,6 @@
 # **Opening Speech for AfriXport Leadership Meeting**
 
-Saturday, November 22nd, 2025**
+**Saturday, November 22nd, 2025**
 
 **Good morning, distinguished leaders, partners, and pioneers of AfriXport.**
 
