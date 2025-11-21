@@ -73,7 +73,7 @@
 
 #### **CMO – USA & Canada**
 
-**Bisi Adesoneye**
+**Bisi Adesonoye**
 
 * North American buyer sourcing
 * Brand campaigns for US/Canadian markets
