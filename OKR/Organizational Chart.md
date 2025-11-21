@@ -1,8 +1,3 @@
-Below is a complete **AfriXport Organizational Structure**, designed using the leadership roles listed in the attached document .
-This structure is formatted in a clear hierarchy and can be used for your leadership portal, presentations, and governance documents.
-
----
-
 # **AfriXport Organizational Structure (2025)**
 
 **Version 1.0 – Based on Leadership Roles**
