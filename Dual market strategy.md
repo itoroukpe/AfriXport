@@ -1,7 +1,3 @@
-Below is a **clear, actionable strategy** for expanding AfriXport into **domestic African commerce + international export markets**, followed by a **Lovable.dev implementation prompt** you can paste directly into the platform.
-
----
-
 # ✅ **AfriXport Dual-Market Strategy**
 
 ## **Objective:**
