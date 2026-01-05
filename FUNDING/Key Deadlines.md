@@ -86,3 +86,246 @@ If you want, I can also set up this as a **Google Calendar feed with alerts** fo
 [3]: https://sme-supportcentre.com/funding-opportunities/?utm_source=chatgpt.com "Funding Opportunities"
 [4]: https://en.wikipedia.org/wiki/Challenge_fund?utm_source=chatgpt.com "Challenge fund"
 [5]: https://www.opportunitiesforafricans.com/category/call-for-applications/?utm_source=chatgpt.com "Call for Applications"
+---
+
+
+Perfect — thank you for confirming. Below is a **clean, execution-ready package** tailored to **AfriXport (DBA under Rondus LLC, Washington State, USA)** with **priority on mixed export operations**. I’ll deliver this in **four parts**, exactly as promised.
+
+---
+
+# 1️⃣ Grant Targeting & Application Calendar (12-Month View)
+
+This is a **practical working calendar** you can immediately use. Because many multilaterals run **rolling or periodic calls**, the calendar is structured by **application windows + preparation cycles**.
+
+---
+
+## 📅 AfriXport Grant Application Calendar (Global | Mid-Size Grants)
+
+### **Q1 (Jan–Mar)** – *Preparation + Early Submissions*
+
+| Funder                                        | Action                                                              | Notes                                         |
+| --------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------- |
+| **African Development Bank (AfDB)**           | Submit Concept Note via Nigeria Country Office or Trust Fund window | Best to submit **off-cycle** with endorsement |
+| **SheTrades / ITC**                           | Submit Expression of Interest / Partnership Pitch                   | SheTrades funding is program-based            |
+| **Prosper Africa**                            | Engage Prosper Africa Trade Advisors                                | Entry point, not grant call                   |
+| **USAID (Global Development Alliance – GDA)** | Partner outreach & concept alignment                                | Requires US entity (✔ you qualify)            |
+
+---
+
+### **Q2 (Apr–Jun)** – *Formal Calls & Trade Programs*
+
+| Funder                                           | Action                             |
+| ------------------------------------------------ | ---------------------------------- |
+| **AfDB Trust Funds / Africa Trade Fund (AfTra)** | Submit full proposal if call opens |
+| **USAID Trade / SME Competitiveness Programs**   | Apply to posted NOFOs              |
+| **EU Global Gateway / Cascade Funding**          | Apply if call opens                |
+| **ITC Export Enablement Programs**               | Submit tailored proposal           |
+
+---
+
+### **Q3 (Jul–Sep)** – *Follow-ups & Additional Calls*
+
+| Funder              | Action                    |
+| ------------------- | ------------------------- |
+| AfDB                | Respond to clarifications |
+| USAID               | Partner-led proposals     |
+| Private Foundations | Strategic co-funding      |
+
+---
+
+### **Q4 (Oct–Dec)** – *Renewals & Scaling*
+
+| Funder         | Action                 |
+| -------------- | ---------------------- |
+| AfDB           | Negotiation & approval |
+| Prosper Africa | Buyer-matching support |
+| USAID          | Award announcements    |
+
+---
+
+### 🔔 **Operational Tip**
+
+You should **always keep 2 documents “warm”**:
+
+1. AfDB-style concept note
+2. USAID-style concept note
+
+That way you can respond to calls in **days, not weeks**.
+
+---
+
+# 2️⃣ Standard AfriXport Grant Concept Note (Universal Template)
+
+This version works for **AfDB, USAID, ITC, SheTrades**, with minor tweaks.
+
+---
+
+## Project Title
+
+**AfriXport Global Trade Enablement Program for African SMEs and Producers**
+
+---
+
+## Applicant
+
+**Rondus LLC (Washington State, USA)**
+Doing Business As: **AfriXport**
+
+---
+
+## Geographic Focus
+
+Nigeria (Phase I), with expansion to other African markets
+
+---
+
+## Problem Statement
+
+African SMEs and producers across agriculture, manufacturing, fashion, and creative industries face persistent barriers to international trade, including limited buyer access, fragmented compliance processes, high logistics costs, and lack of trade coordination infrastructure. These constraints limit export participation, income growth, and job creation despite strong global demand for African products.
+
+---
+
+## Project Objective
+
+To operationalize AfriXport as a **trade enablement and market access platform** that connects African SMEs and producers to global buyers, coordinates export compliance and logistics, and enables inclusive participation in regional and international trade.
+
+---
+
+## Priority Focus (Your Selection)
+
+✅ **Mixed Export Operations**
+
+* Agriculture & agro-processing
+* Light manufacturing
+* Fashion & textiles
+* Arts & creative goods
+
+---
+
+## Key Activities
+
+### 1. Vendor Onboarding & Export Readiness
+
+* Identification and onboarding of SMEs and cooperatives
+* Product documentation and standards alignment
+* Quality assurance coordination
+
+### 2. Buyer Acquisition & Matchmaking
+
+* Outreach to buyers in the US, EU, UK, and AfCFTA markets
+* Distributor and wholesaler engagement
+* Virtual and physical trade matchmaking
+
+### 3. Trade Facilitation & Logistics Coordination
+
+* Export documentation support
+* Inspection and certification coordination
+* Shipping and fulfillment planning
+
+### 4. Field Operations & Local Representation
+
+* Regional operational agents
+* Vendor aggregation and monitoring
+* Issue resolution
+
+---
+
+## Expected Results (24 Months)
+
+* 1,000+ SMEs and producers onboarded
+* 40% women- and youth-led enterprises
+* 3,000+ jobs supported
+* 20–35% income increase
+* Expanded access to US, EU, UK, and AfCFTA markets
+
+---
+
+## Sustainability
+
+Post-grant sustainability will be achieved through transaction fees, subscription services, buyer service fees, and long-term partnerships.
+
+---
+
+# 3️⃣ Fully Tailored Proposals (Funders You Named)
+
+## 🏦 A. African Development Bank (AfDB)
+
+**Best Department to Target**
+
+* Nigeria Country Office (RDNG)
+* Private Sector, Infrastructure & Industrialization (PIVP)
+
+**AfDB-Language Positioning**
+
+> AfriXport functions as a **trade facilitation and SME competitiveness platform**, supporting AfDB’s High 5 priorities by enabling export-ready SMEs and producers to participate in regional and global value chains, advancing industrialization, job creation, and regional integration under AfCFTA.
+
+**What AfDB Is Funding (for You)**
+
+* Vendor aggregation & readiness
+* Buyer access & trade facilitation
+* Compliance & logistics coordination
+* Field operations
+
+---
+
+## 🌍 B. SheTrades / International Trade Centre (ITC)
+
+**Primary Angle**
+Women- and youth-led SMEs in agriculture, fashion, and creative industries.
+
+**SheTrades-Aligned Language**
+
+> AfriXport advances inclusive trade by enabling women-led and youth-owned enterprises to access international markets through structured onboarding, buyer matchmaking, and export readiness support, aligning with SheTrades’ mission to connect women entrepreneurs to markets.
+
+**Tip**
+Emphasize:
+
+* % of women vendors
+* Fashion & creative goods
+* Capacity building
+
+---
+
+## 🇺🇸 C. Prosper Africa (US Government)
+
+**Important Reality**
+Prosper Africa is **not a traditional grant program**. It is:
+
+* A trade facilitation initiative
+* A gateway to USAID, EXIM, DFC, USDA support
+
+**Prosper Africa-Aligned Language**
+
+> AfriXport supports Prosper Africa’s mission by connecting African producers to US buyers, strengthening trade pipelines, and reducing market entry barriers through digital trade coordination and compliance facilitation.
+
+**Outcome**
+
+* Buyer matchmaking
+* Technical assistance
+* Pathway to USAID or DFC funding
+
+---
+
+# 4️⃣ AfriXport Narrative — Fully Rewritten (Donor-Grade)
+
+**Use this paragraph everywhere:**
+
+> AfriXport is a digital trade enablement platform operated by a US-based entity that reduces barriers to international trade for African SMEs and producers across agriculture, manufacturing, fashion, and creative industries. The platform provides structured market access, buyer matchmaking, export compliance coordination, and logistics facilitation, enabling inclusive participation in global value chains while supporting job creation, income growth, and regional integration aligned with AfCFTA and international development priorities.
+
+---
+
+# 5️⃣ What I Recommend You Do Next (Very Strategic)
+
+I can immediately:
+
+1. Convert this into **AfDB-formatted Word documents**
+2. Draft **cover letters** to:
+
+   * AfDB Nigeria Country Office
+   * ITC / SheTrades
+   * Prosper Africa Trade Advisors
+3. Build a **tracker spreadsheet** for grants + status
+4. Create a **donor pitch deck (10–12 slides)**
+
+👉 **Tell me which one you want first**, and I’ll deliver it in the next response.
+
